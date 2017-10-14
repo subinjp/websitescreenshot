@@ -5,7 +5,7 @@ This project is for building a docker image which can be used to create screensh
 
 ## LOAD the docker image
 You can load the image into docker using the command:
-docker load -i <path to image tar file>
+docker load -i < path to image tar file >
 
 ## Setup on Docker
 ### Build image:
